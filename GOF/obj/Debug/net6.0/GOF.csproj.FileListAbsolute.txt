@@ -1,0 +1,15 @@
+C:\Users\karmo\source\repos\GOF\GOF\bin\Debug\net6.0\GOF.exe
+C:\Users\karmo\source\repos\GOF\GOF\bin\Debug\net6.0\GOF.deps.json
+C:\Users\karmo\source\repos\GOF\GOF\bin\Debug\net6.0\GOF.runtimeconfig.json
+C:\Users\karmo\source\repos\GOF\GOF\bin\Debug\net6.0\GOF.dll
+C:\Users\karmo\source\repos\GOF\GOF\bin\Debug\net6.0\GOF.pdb
+C:\Users\karmo\source\repos\GOF\GOF\obj\Debug\net6.0\GOF.csproj.AssemblyReference.cache
+C:\Users\karmo\source\repos\GOF\GOF\obj\Debug\net6.0\GOF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karmo\source\repos\GOF\GOF\obj\Debug\net6.0\GOF.AssemblyInfoInputs.cache
+C:\Users\karmo\source\repos\GOF\GOF\obj\Debug\net6.0\GOF.AssemblyInfo.cs
+C:\Users\karmo\source\repos\GOF\GOF\obj\Debug\net6.0\GOF.csproj.CoreCompileInputs.cache
+C:\Users\karmo\source\repos\GOF\GOF\obj\Debug\net6.0\GOF.dll
+C:\Users\karmo\source\repos\GOF\GOF\obj\Debug\net6.0\refint\GOF.dll
+C:\Users\karmo\source\repos\GOF\GOF\obj\Debug\net6.0\GOF.pdb
+C:\Users\karmo\source\repos\GOF\GOF\obj\Debug\net6.0\GOF.genruntimeconfig.cache
+C:\Users\karmo\source\repos\GOF\GOF\obj\Debug\net6.0\ref\GOF.dll
