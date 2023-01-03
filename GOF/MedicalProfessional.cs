@@ -1,7 +1,4 @@
-﻿
-// The MedicalProfessional abstract class represents a medical professional
-// who can treat a patient if their health level is within a certain range
-public abstract class MedicalProfessional
+﻿public abstract class MedicalProfessional
 {
     protected MedicalProfessional Successor { get; set; }
 

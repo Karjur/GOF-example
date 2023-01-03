@@ -1,6 +1,4 @@
-﻿
-// The Doctor class represents a doctor who can treat patients with moderate health problems
-public class Doctor : MedicalProfessional
+﻿public class Doctor : MedicalProfessional
 {
     public Doctor()
     {

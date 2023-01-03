@@ -1,6 +1,4 @@
-﻿
-// The Patient class represents a patient who needs medical attention
-public class Patient
+﻿public class Patient
 {
     public int HealthLevel { get; set; }
 

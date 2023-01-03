@@ -1,6 +1,4 @@
-﻿
-// The Surgeon class represents a surgeon who can treat patients with severe health problems
-public class Surgeon : MedicalProfessional
+﻿public class Surgeon : MedicalProfessional
 {
     public Surgeon()
     {

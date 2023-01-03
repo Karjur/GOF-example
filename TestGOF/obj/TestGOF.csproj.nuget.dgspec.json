@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karmo\\source\\repos\\GOF\\TestGOF\\TestGOF.csproj": {}
+    "C:\\Users\\karmo\\OneDrive\\Desktop\\GOF\\TestGOF\\TestGOF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karmo\\source\\repos\\GOF\\GOF\\GOF.csproj": {
+    "C:\\Users\\karmo\\OneDrive\\Desktop\\GOF\\GOF\\GOF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karmo\\source\\repos\\GOF\\GOF\\GOF.csproj",
+        "projectUniqueName": "C:\\Users\\karmo\\OneDrive\\Desktop\\GOF\\GOF\\GOF.csproj",
         "projectName": "GOF",
-        "projectPath": "C:\\Users\\karmo\\source\\repos\\GOF\\GOF\\GOF.csproj",
+        "projectPath": "C:\\Users\\karmo\\OneDrive\\Desktop\\GOF\\GOF\\GOF.csproj",
         "packagesPath": "C:\\Users\\karmo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karmo\\source\\repos\\GOF\\GOF\\obj\\",
+        "outputPath": "C:\\Users\\karmo\\OneDrive\\Desktop\\GOF\\GOF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\karmo\\source\\repos\\GOF\\TestGOF\\TestGOF.csproj": {
+    "C:\\Users\\karmo\\OneDrive\\Desktop\\GOF\\TestGOF\\TestGOF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karmo\\source\\repos\\GOF\\TestGOF\\TestGOF.csproj",
+        "projectUniqueName": "C:\\Users\\karmo\\OneDrive\\Desktop\\GOF\\TestGOF\\TestGOF.csproj",
         "projectName": "TestGOF",
-        "projectPath": "C:\\Users\\karmo\\source\\repos\\GOF\\TestGOF\\TestGOF.csproj",
+        "projectPath": "C:\\Users\\karmo\\OneDrive\\Desktop\\GOF\\TestGOF\\TestGOF.csproj",
         "packagesPath": "C:\\Users\\karmo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karmo\\source\\repos\\GOF\\TestGOF\\obj\\",
+        "outputPath": "C:\\Users\\karmo\\OneDrive\\Desktop\\GOF\\TestGOF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\karmo\\source\\repos\\GOF\\GOF\\GOF.csproj": {
-                "projectPath": "C:\\Users\\karmo\\source\\repos\\GOF\\GOF\\GOF.csproj"
+              "C:\\Users\\karmo\\OneDrive\\Desktop\\GOF\\GOF\\GOF.csproj": {
+                "projectPath": "C:\\Users\\karmo\\OneDrive\\Desktop\\GOF\\GOF\\GOF.csproj"
               }
             }
           }

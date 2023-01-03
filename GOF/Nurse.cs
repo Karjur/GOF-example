@@ -1,6 +1,4 @@
-﻿
-// The Nurse class represents a nurse who can treat patients with mild health problems
-public class Nurse : MedicalProfessional
+﻿public class Nurse : MedicalProfessional
 {
     public Nurse()
     {
