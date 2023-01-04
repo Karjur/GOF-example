@@ -16,3 +16,5 @@ public class Program
         nurse.TreatPatient(patient);
     }
 }
+
+//V. Sarcar, Design Patterns in C#, 22. Chain of Responsibility Pattern, 2018

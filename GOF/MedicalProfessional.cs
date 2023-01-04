@@ -12,3 +12,4 @@
 
     public abstract void TreatPatient(Patient patient);
 }
+//V. Sarcar, Design Patterns in C#, 22. Chain of Responsibility Pattern, 2018
